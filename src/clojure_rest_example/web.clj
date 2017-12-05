@@ -24,6 +24,7 @@
   []
   (let [body {:name "clojure-rest-example"
               :version version
+              :hello "world!"
               :success true
               :dependencies []}]
     {:headers {"content-type" "application/json"}
