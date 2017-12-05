@@ -37,7 +37,7 @@
        [] (healthcheck))
 
   (GET "/ping"
-       [] "pong1")
+       [] "pong2")
 
   
   (route/not-found (error-response "Resource not found" 404)))
