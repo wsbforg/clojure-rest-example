@@ -2,7 +2,7 @@
   :description "Clojure-rest-example service"
 
   :dependencies [[ch.qos.logback/logback-classic "1.1.3"]
-                 [cheshire "5.1.1"]
+                 [cheshire "5.0.1"]
                  [clj-http "1.1.2"]
                  [clj-time "0.9.0"]
                  [compojure "1.3.4"]
